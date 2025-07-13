@@ -1,0 +1,105 @@
+--metrics={"baseline":7,"xHeight":3,"capHeight":0,"pairs":{},"left":[],"right":[]}
+datalen=1928
+data=iVBORw0KGgoAAAANSUhEUgAAADwAAABkCAYAAADaIVPoAAAAAXNSR0IArs4c6QAABWBJREFUeF7tXNuy4jAMg///aM7AnHSMsSw5Tst1X3ZpU8fyTWoLez6dTqfL5XK5/n39cz6fz+Pf41x0LFrP7Fj7dq23Fdmprke4zldDFpD9PDZB521AmJ2rDW/bBzIKsLc7gjOOo33R8QcnRhaQQZt9VAEoEFEwo+xGgUBVNw2YRcwDZeU+nM5KMQLh169qsZHIW4Z9b2Ul7EsqCkQWDJQ9NeBZ6ygVl/ZwxXHmiLdVLUUU6Kqd20Rm09Vn3Gc1Kl91IM1M+w5r3FEQKs9POv4D/EnZjLDIGa4MJXWQZFMV0WDU84wiLQtJgJHUQxypAEb8rFyrKDKk0ChgJu2QeGDCQ1FymRRlFTcF2IoStkHW+xE4psAihzP6VCUvzPCMQ6zvEOcqNxbVgLcyPJoeGWGTvZJhpYcVP6YAexWWae5qSaua3M+ISvCjFqBDy05EJbIs288+LwGu8uWzQWX7y4BfGUTFN3q3VDH2qmttKz5kGAmCKi2sAt+dG/56CJgNq64jSkCQ+GDPvDIGSAEjzeqdzRxgAgYB7wZU5uFIv3YjrWQz0uRIuSlPUxCzvFwPdzPLNPXyKV11uLp+pgXSKV0tP7UUO3bZtZWgfafwYBH8pPNbD6vcNqbfCAJ6Zs2Oe7qaXY9oDx3fSlrtA+V+NRMtTMl17Wei43oOvgtWBYMHgD57R1RgCAAKXAkwImuFCqwDt0j+v1hXS86uV4SF38/umbXddIbVmwk1k9WMVddvM4eVgDqh0QzoAq72PMMzNaVR6dvyRSUalaJSjmiqZy0TtcZPeKgl/K7rvjPDnd7z/XcU39phiPy3VTj6GX7Hg9EOU2bRdPVOIr4dQRxAxqsYz+/+FY2i8B4AM2XDxj7KMAsgu44pOrWyNsC+LJi0rGQ4KvsOb/vMR1+zQjR2WElXM6xmTBU2m9JSL2AOK3bUHkYZ6xy/k5arpvQKO0rgvNJT9n3Q0u8qJKp+f6fwqEbpndfD59JorKOba/WuJRIkimCo9jbyp0xLs9N6Nc2wwPkqHOvbgJFhptiqGZupgsiHFHAkvlFJM4DdDDNJqyq3O2lpxTgr3SrAKuDs5iMCpx6DvzSZKTkvCNhnBGpob0Uzq4EPlZaa4UjZZCVXWb8y0H6+XPH9hMc7iwrF9+/LsKqoxiBhUUT0EF2319psL/iIBwmKzEmkfrIgqaDVdWgvqLTYBRHVMPqpVgW6v60Koah6yxlmioeBY+ertFRdPw0YZZoBYuerAFRJ2Spp63S3t9CsGAG1qqvzTOsOsNIb6pRmGVTOR5JSZZPsd5KHKC3v6JGBi4L7fcJDKbFPWkMznN3pqMOrMtiyqbuiHVLAKxxVqsPuoyg5xSZak36blkXbRhxNUTtxFUcz8Ixz/bUR+5SfaVWFgSJQIpARuOyY1/HIz+1/eYiioWzqN4qkJ2uNKDPKl9MyDZ8CRk8+ngU4erOPKqVace0eZtJvtqSz7GXswCqO0hIbNKxc0fXqZGb7V89PAVa5mTlTneDMnnJ+CrBi+FXXPBXwbDt0gvmdgKOeRMppTE/P26vWV2mmur79upTRQFUbVwGg9ZbW7JrdAHuuHJ+jxzQdXlUl5bb/qoiqAwjxL6sUlLEMcGSz/R0PpLSspo50uj/PfrcUaXR/LBMz4xyc0jMZ69DFUdf+AB8V6WftMy08kA5Gt5Sj1z1QNKz2CsgU4Cq3ooFzNNhb0DNa8lFmP5ez1BFlSB2Ee2U3BYzEAHO6e35PsBJg1JOVx0IZh+4N8KFKFS2KBk21bFn2jwD/oLSsckI9PHo1mrzVKX0EyDulV8ne0c7tsd/y/8djDydX2pzi4ZUOHG3rD+qlaRmUBuTcAAAAAElFTkSuQmCC
+width=6
+height=10
+
+tracking=1
+
+0	5
+1	3
+2	5
+3	5
+4	5
+5	5
+6	5
+7	5
+8	5
+9	5
+space	3
+�	6
+!	3
+"	4
+#	5
+$	5
+%	5
+&	5
+'	3
+(	4
+)	5
+*	5
++	5
+,	3
+-	5
+.	3
+/	5
+:	3
+;	3
+<	4
+>	5
+=	5
+?	5
+@	5
+A	5
+B	5
+C	5
+D	5
+E	5
+F	5
+G	5
+H	5
+I	5
+J	5
+K	5
+L	5
+M	5
+N	5
+O	5
+P	5
+Q	5
+R	5
+S	5
+T	5
+U	5
+V	5
+W	5
+X	5
+Y	5
+Z	5
+[	4
+]	5
+\	5
+^	5
+_	5
+`	4
+a	5
+b	5
+c	5
+d	5
+e	5
+f	5
+g	5
+h	5
+i	2
+j	4
+k	4
+l	2
+m	5
+n	5
+o	5
+p	5
+q	5
+r	5
+s	5
+t	5
+u	5
+v	5
+w	5
+x	5
+y	5
+z	5
+{	4
+|	3
+}	5
+~	5
+

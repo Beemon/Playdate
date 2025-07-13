@@ -1,0 +1,105 @@
+--metrics={"baseline":7,"xHeight":2,"capHeight":0,"pairs":{},"left":[],"right":[]}
+datalen=1888
+data=iVBORw0KGgoAAAANSUhEUgAAAFAAAABkCAYAAAAR+rcWAAAAAXNSR0IArs4c6QAABUJJREFUeF7tnO1y4yAMRZP3f+jspLN0WQo6Fy7Yjkt/dUYIxEFfOE6ej8fj8Xq9Xs/n8/n+v/a3Wh7Z8F472dSyMbLP1Sc+z7R4y4hkABkf6b91lU3W1lAPTx1XOoiy/8h+BEgnkAxavYHR6CD7LgFwFF46nBxO6YVKBLz1V6eg1hq2BxI88gBXrnoQeTDtoyVfDpA2eHWAZP9X5R2lX4YgFZqWFyhVeDREaW/u/putS7TZLftHYAM0vWEDPBpgmVPKJNuSUxUcldP+KQeSnObv8sDatcgFSAa6GyR9kpN9MkD1qlbzwKjRpQ2QnKrorEa82UgT4bxVqd0JVQ+kAxgNYerT6ABU/WYjTQDzsE1j857sCgBneDgd8DDAWrOcT3YFgKNNdh7+SwGWEMsTj8JADZHREC5TTG2eKIwpR9L8chFRTovSwR3lXQCp4t0REO2pGyBN+NvklwBIrcYVDsWqwis38AnwotT1/TxwtJdSq1j0rFBZO2ozIn0lb9MeInn4aZlSedU2hfosamNIn+Sr5scn0hRiG+Dfo6ETXC1f5SGrHeArhJ0cMkM/uopRDlMjICqEtIcwB7oVlk7Ynf8o/dF92H3g6MJHgVHWcfZgA1QMvPOYDRA+Fyfv3AAhPBBgqjBpntrLPdHrXVQFZ4RvVAXL9csNK/ZFkEj/x7sxvQbQAi5Amn8DFENIbeRr4ygMyQOjPnl7oFhEWpARYLoJ0BMTkrtvbinzR95HXkb2NQG6OSrpjxqork9hqM5TG+fMPaWNWQ2P7sNnwfuKCmfxrfsXIHnQyqc1UY+n5F/yTrUNajkD2YfvSKsGqG1GaSjlH1W+an06oGkAoxNUbjKk78oJcJSOokP8fqDaClNy4RkeQi0KyemAWtdU8i6lw7iNB5KHkdzyQDrBI+SrQ/RUgGdX4TM/M6EUtftAs5ndADdAk4CpLldh6tRbrQK1QdRKXEW/VQemAMyrdJl0j7rJUJUdldMBb4DwexESQKXTpz6t5WkzPFCxL/Iwpw2TACqN8pkAla8xOCFKkPAu/JsBUoQQXCkH9oRQbxEhA+kmoOrTM0/Fy2tReJtGWgFttnxV9dsAXAFHmXMDVCgFY6QcqBSZ0SqYbhqtPKuEJt1WqFAoa7QYng4wGUYHQG1UVEwigHSArXnTnLcHmAOq3dfJ+2rwcx0bILURrlzd4KgH9tpX2mMDpPxCBvYAqoVxvn4tj5IHUgrJ18xtPSyEXYBUJOkA8vVrY5UcWO7hP6dJQuW2QR5Abzi19Gu5qdczFPtnFKrSrt0HkouDfAPcAE0Cpjp+W5OKgLk+qpdVvvW0pzWR0iWgEcEAu41xFld1o0pJVbgXYO8BYQ7sNUCFoo4jD1TnUcaNVGkEqIQweYFi/NljaA8tOQIkD1Ab0ShHRX3gEWAJXtSTygAjT1QNOAJG7xq9tv+4CysLJi+jn3SvzeV6qGLfmWPQA8807hPW3gDNU9oAZwB0e70oEatJeqQHU1oskw+q402EZlAA0RhHTrpkvyvHEKYqqmyAxjhyRzfq71SwCJAWoQ1QmCn6Z/ag5EASQDfHESRHTrqqJ42OQ4BkIMnJA125sj7BIQeJrpoSQLqrkgH0PQ8nRAkgyZUDjA4AAdLpfbpcAbwBLjzlX++BLlsbIIVA/iSnZizJ3RzlAiJ9GyBtkACr+so8tNkV8m+Ao3dRMkrZ+KwxZMsK+fKPNWfAUeZYAUeZE38Gma5ytIiyeRpDcrJhpfwjPHAlAHfuQ3Lg28jRXzKnIuMCcPWnVGHXiE/W3wDN09sATYB/ADCCWRUmE6AAAAAAAElFTkSuQmCC
+width=8
+height=10
+
+tracking=1
+
+0	3
+1	2
+2	3
+3	3
+4	4
+5	3
+6	3
+7	3
+8	3
+9	3
+space	1
+�	6
+W	5
+h	3
+i	1
+l	1
+e	3
+t	2
+b	3
+a	3
+s	3
+c	3
+p	3
+o	3
+f	2
+v	3
+n	3
+r	2
+g	3
+d	3
+m	5
+u	3
+y	3
+,	2
+.	1
+q	3
+w	5
+x	3
+j	2
+k	3
+A	3
+B	3
+C	3
+D	3
+E	2
+F	2
+G	3
+H	3
+I	1
+J	2
+K	3
+L	2
+M	5
+N	3
+O	3
+P	3
+Q	3
+R	3
+S	3
+T	3
+U	3
+V	3
+X	3
+Y	3
+Z	3
+!	1
+@	4
+#	5
+$	3
+%	8
+^	3
+&	5
++	3
+_	3
+-	3
+*	5
+'	1
+"	3
+/	5
+\	5
+~	4
+z	3
+(	2
+)	2
+{	3
+}	3
+|	1
+:	1
+;	2
+=	3
+<	3
+>	3
+`	2
+[	2
+]	2
+?	3
+

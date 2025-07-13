@@ -1,0 +1,105 @@
+--metrics={"baseline":7,"xHeight":2,"capHeight":0,"pairs":{},"left":[],"right":[]}
+datalen=1956
+data=iVBORw0KGgoAAAANSUhEUgAAAFAAAABkCAYAAAAR+rcWAAAAAXNSR0IArs4c6QAABXRJREFUeF7tmuuS2yAMRrPv/9DtJBsyhAWdDwlw7NA/7VSAxNHVdn5uv3/+3W63n+e/a3/Nlls23HWnPy0bLfui+00+d4OS8pYRyQAy3tqf62k56P7/NR2q89R1pX7l/k37FYBKhCprvIC9YFqgPhJg5JJ5itWiUMmAVvQmWBH7UnBUdYyIQDJu5CWsFKcIb5V4SmHT/hUAQwZmtyZAJPcCNO1PHqUomt3llC7snRLobpH6bY4uxlSzRTRXbUIiASstxCO+e5kHYFlTyiLbklMR98rJg1QDSW6e3wuw9lgUBRgFEN2/DCCNCa12rwzC3g6rzJiKfmUQbw7S5MFyEvemMDnAm8I0Z1KEqfur5ygpXD5qlZ5QU3gmQCuCDgeYR2AyNDfqEwBGSsD0CMzrTJ5mudGWEaqB3hQuS0ztHOVJipwQqoFlsaa0UOrqJdYoNbC86IaXEfEAvETkjLrEpwA8Q1S7x5hRzoo0idk2KOebAJVp3fqopEzy3v1KF4/oV7t4swtT+igXsL66qfspQmkQJ/mU85U30qsAT7lgxzdvcgDWQNcB4ndlJUJPC5DqX6oR3hqm7KdpgJ4kIg4K10ClA1lrKMWj56/a77oHeV4x3qVYOXjhGvcdRgBceM/PU7UB/vpEqbFV722AHNRmeqfulR9TQlUHYXcd4Ts8IqT1tBF9oatGYHMOjBpAgAU+5hI6P2r/Bvj8YaYFmrKDamAr+h+/jYl6kCLk6yMwNKk/6ZGHqZnR05ISfV4bzAAhw3uix2ugqoPSUD2nts599iiAs+FRoT8EXrMwRqz5tr3q+0CCTRFo7VfqW1R/5G2NaV+tC5dBRF12lLwVvFSfZus3y8dIgASgBUIFROeT3KtfApiU15qKkmL0swhKoWiKK+fTo6BVvptOvlIEUoSR/HCAZCDJKQVJTueTfCrAaBcckaKuC3Z89CIHVeWjBulvG/9e990Ag67fAAcAVAdRq0bkstob7Zk11JzTnjVwhP7qGT1jDBXZliNUB1GXPEouDdI0iPYMyuVFzwLQ1eXzj0rWTzeOBkhjEAVAJIUvE4FqCSnXUQak9fRGqRpEZ6qBswAqgMPPwj0p1FsDlS5K45YSPcoactIfORkWnJKWbqfXYlOMuRLAKYDo0A2QCIG8p4nMHGSTma0XuuRo9aUv3aEb5ycApDGCalsuJ0A1eYKvNMoc8OOsbwCYA6pFuuqgqqNGAKQxJCpXL2jpoVnPrWMEQDKOAPYYX6tRuf5aGlIEUgn5k7bP/1iWwlGAVNjJAbl+bw0s7/ByWupuahejCPC8kKAirgJSmgA1mZ4nkVcEkoe33CBA89WGJwzSG1KAQF4DlZemAVXurWWXL+sY1UhlSnAbN2KMcSvv2Gg1mtEAuxyk1MCpHhQgUgQKR8hLuru0ApDmOEUu3+DAhWokv5moAKQIoDmOmET30/mKnOClM/6s6wFoRZpqgHKZ1Wt6bX9brwBM4NKk71GYoKj6VkN067vchdwknBs3QCe4y6ZUkEf39vJJpLe+NbtTZol6ZvcM9tShnt8NR9mgPInQOcoFaE1ETnvJ/pBcqYE0pykXoDUReWSvkkEmYAUgKaELWPMjyXLjvSkeirDsB5ppjHs7TwVoQYoCVCBG9UchNvcrAAkQyaOAaL+inwCSg5pTiwqQxh4yQNXj+WUCASQ5OWhYDSQvnlWuAA6l8FnBLLFbSa0lhpxVyQiAlAJpjrS+GVdHhAwq6TiM/wiAVISVyytNSDlnOcgc4KxBVbn4qDWHAaQLkNwyXNlLa0i+HFw+16nGqevKyyj7aA3JDwVINUyRz47AwwCR4lU10Oqy1KWjDiQGIfmoLhwy4sybN8Cg9zbAIMD/1yMWkdyt30QAAAAASUVORK5CYII=
+width=8
+height=10
+
+tracking=1
+
+0	3
+1	2
+2	3
+3	3
+4	4
+5	3
+6	3
+7	3
+8	3
+9	3
+space	1
+�	6
+W	5
+h	3
+i	1
+l	1
+e	3
+t	2
+b	3
+a	3
+s	3
+c	3
+p	3
+o	3
+f	2
+v	3
+n	3
+r	2
+g	3
+d	3
+m	5
+u	3
+y	3
+,	2
+.	1
+q	3
+w	5
+x	3
+j	2
+k	3
+A	3
+B	3
+C	3
+D	3
+E	2
+F	2
+G	3
+H	3
+I	1
+J	2
+K	3
+L	2
+M	5
+N	3
+O	3
+P	3
+Q	3
+R	3
+S	3
+T	3
+U	3
+V	3
+X	3
+Y	3
+Z	3
+!	1
+@	4
+#	5
+$	3
+%	8
+^	3
+&	5
++	3
+_	3
+-	3
+*	5
+'	1
+"	3
+/	5
+\	5
+~	4
+z	3
+(	2
+)	2
+{	3
+}	3
+|	1
+:	1
+;	2
+=	3
+<	3
+>	3
+`	2
+[	2
+]	2
+?	3
+

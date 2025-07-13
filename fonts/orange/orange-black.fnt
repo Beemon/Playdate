@@ -1,0 +1,105 @@
+--metrics={"baseline":7,"xHeight":3,"capHeight":0,"pairs":{},"left":[],"right":[]}
+datalen=1932
+data=iVBORw0KGgoAAAANSUhEUgAAADwAAABkCAYAAADaIVPoAAAAAXNSR0IArs4c6QAABWJJREFUeF7tW1l22zAMbO5/6PbZNfMQCLOApCI7cX4SSxSIwTIYyu3Hn/8/fx+/b78+wt/jXnVtLIv3lJ1oP67Ntio73fUlrpuzN0PZ6fF5bILux4AoO3mvvH6AZnZiLsY6tL68XjkxsoAMpgI4BCw7HjfOf0dbMci5otie04BVxPKmqtxzlVTgUMbY2qoyUCvlNvgYGc69xUoYlZ6TeVTGbmtUQW61gOphlkVFbigTqHTdClMAqZ2q7BwgOZuOHZSdGbafnhqKHKq+felrb8AvnT7D+U6GFVk4TKuITLmslJzsbRcwknqI4BwxgKSi8+z0eHIAuxIQZVgBc2bzDMDSrgIctbRT0qgkq9mIAsGEDStpR/gcTkZZ6qF5iwQJkp+OHaS5UQBYZUD/3AwP6ak22ZFhp4cdP6ZKekSqEvPOpjk7u1i6ksSquu7JVRl2HFaj5Knuu4A7PftUABl5PLWju5xzTzm79rvKzid3VCU9ey49C0yHHBFxfeJkgJFyYsJgN+gdrP4FowJckZVSSJXimeGOrZkdDijAqLzPZm1XX8dAWtXwjD28mtmqwg493BHlqk+7DnfXK/lKiasjPBTQs8uc7W8HbTdgJyiXrvm1gO2SeKQH9Xzneh5vMfiVHbQejcnyet7EybhzXmWiRSm5VftUGLFvGVyBkQGgz9kRFxgCwDQCJFAlPBTBRKejA7fnqoNJFDysRB2/8n5xzwH4ILBWMowyRAd/+AL+8gx3iUsB65birt62engGLNKuuYxYJmPQzmDpQ2s4rKz6+KXuvwG/VLomnGXvtNzey+Pgu+ZtHokVdxw4onqhrdiSsmDYobJTze2K7UcQx6wefub53vafvcFXc1Yxu6u40HhzFZw7z+/rIuCofGJE2ehgpIeUl6oQB0DOfHUmKJVcuySKkkXUsZrhWS6gGnsnYDczkSi7mhll0rl+D+Buls5tMUS8U3KRqBwADku/ldZbaU2Il5d6RPXwymlmticd8ovc0FKEMyzdFSQ7AXTJLCbsIDxm5x5SSkhgKOnKAtp99uCDynCnpBXA2YCqimoptywtq88tg+I/jbi9h/xgKqrS9odrOcPsNKPKqZthBB6dkFSm1f1SabkZrhQVq4TO+i7JsUBnfrmfln7VzxvwT093ddDPwx2NJhSbii2/e221HxQeyjkGiB6+gWE3QO466j97p8UUlDPzOg5WzDz2r/T+7R6qRFqhs4DjDN3d9t2x1Fq/Avgs0C0AhbKjAmgV8Bmgs9ob5bsaiC+khZg4KqTcN7tLOdrL8rIzTWQPn+n4qICDxDt7U2T/rbSuivx37etkmJ10ct8heyszObLuMo8owDscdZLHzuFuUJ196DcPbORUWUeMHhnXccp5CYFUYDXSvii2mXda3XnozOoKpCNfo+2s40s/q/kW+8TZFB0Y3DLNAWEVseyPUlrLGzzqSXHBjgxnSQkznMVB9bK76pmszlCpz5Z09dxyAhRLd0nGWZ8z4QSkY5eunQXszmblaJfBlT15fxawNPysC64GrMhse9x+LeCOcsqsPuY2OztX95gyqyZFV/BQ4XHaBuQVDGLnLcDS/P+0qaTlSiBi/yFWX56rxb+wZ3rgfnjYFVGXgJDk7EhUpsyoaqve+XbfA8cerkiQ9XbkA+c9s2oDpt/v9xhLz2Rs+xjZbfANeHdEn83eivBAOhgx7+j16uSljqnb4jYLmPV35x5i5m0AsyE1lqr16jjXAXwaMGSYAc7CIY6rFbJz2f+UYDiAHTWEgoP69RQwjlEFGGVjtmwvzW5kTec0k1l2F0s7idm2BknBWfbe5thZhpiWPmvPS+3+2EyiqP4DCGoakhjg6d0AAAAASUVORK5CYII=
+width=6
+height=10
+
+tracking=1
+
+0	5
+1	3
+2	5
+3	5
+4	5
+5	5
+6	5
+7	5
+8	5
+9	5
+space	3
+�	6
+!	3
+"	4
+#	5
+$	5
+%	5
+&	5
+'	3
+(	4
+)	5
+*	5
++	5
+,	3
+-	5
+.	3
+/	5
+:	3
+;	3
+<	4
+>	5
+=	5
+?	5
+@	5
+A	5
+B	5
+C	5
+D	5
+E	5
+F	5
+G	5
+H	5
+I	5
+J	5
+K	5
+L	5
+M	5
+N	5
+O	5
+P	5
+Q	5
+R	5
+S	5
+T	5
+U	5
+V	5
+W	5
+X	5
+Y	5
+Z	5
+[	4
+]	5
+\	5
+^	5
+_	5
+`	4
+a	5
+b	5
+c	5
+d	5
+e	5
+f	5
+g	5
+h	5
+i	2
+j	4
+k	4
+l	2
+m	5
+n	5
+o	5
+p	5
+q	5
+r	5
+s	5
+t	5
+u	5
+v	5
+w	5
+x	5
+y	5
+z	5
+{	4
+|	3
+}	5
+~	5
+
